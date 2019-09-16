@@ -1,4 +1,4 @@
-# Oceania-Online-Results-Site-
+# Oceania-Online-Results-Site
 
 ## Project setup
 ```
