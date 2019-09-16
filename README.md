@@ -1,4 +1,4 @@
-# Oceania-Online-Results-Site
+# meos-results-screens
 
 ## Project setup
 ```
