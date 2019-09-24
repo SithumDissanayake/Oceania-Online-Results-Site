@@ -1,11 +1,7 @@
-.main-results{
-    background-color: var(--bg-color) !important;
-    color: var(--font-color) !important;
+body {
+    background-color: black !important;
 }
-.col-sm-12{
-    background-color: var(--bg-color) !important;
-    color: var(--font-color) !important;
-}
+
 .navbar-custom {
     background-color: #2B3CF5;
 }
@@ -30,4 +26,25 @@ table {
     color: white !important;
     border-collapse: collapse;
     width: 100%;
+    vertical-align: middle !important;
   }
+
+th {
+    font-size: 16px;
+    vertical-align: middle !important;
+}
+td {
+    font-size: 14px;
+    vertical-align: middle !important;
+}
+
+.btn {
+	margin: 5px 0;
+	background-color: white;
+	color: #222f3e;
+}
+.btn:hover{
+	border: 1px solid #222f3e;
+	background-color: #222f3e !important;
+	color: white;
+}
